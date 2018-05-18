@@ -1,0 +1,7 @@
+# WHMCS Sysally Theme Configuration File
+
+name: "WHMCS Sysally Theme"
+description: "Custom Theme for Sysally"
+author: "Karmandeep Singh"
+properties:
+  serverSidePagination: false # Defines client side will handle pagination
